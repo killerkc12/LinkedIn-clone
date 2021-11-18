@@ -1,4 +1,4 @@
-import { Avatar, Icon } from '@material-ui/core'
+import { Avatar } from '@material-ui/core'
 import React from 'react'
 import './HeaderOption.css'
 
